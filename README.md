@@ -1,5 +1,6 @@
 # Neural-Networks
 This respository contains a number of proof of concepts for various types of neural network algorithms.
+
 === File descriptions ===
 
 1. CNN_Image_Classification: the script uses a Convolutional Neural Network to identify whether an image contains a cat or a dog
