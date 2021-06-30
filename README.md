@@ -8,3 +8,4 @@ This respository contains a number of proof of concepts for various types of neu
 3. RNN: the script uses Recurrent Neural Networks to predict international airline passengers for a given month and year
 4. VAE: the script uses a Variational Autoencoder to reconstruct the input data as accurately as possible
 5. Clustering (K-Means): the script uses K-Means Clustering to classify wine data
+6. winedata.csv: the data file for script number 5
